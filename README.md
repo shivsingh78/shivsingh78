@@ -284,9 +284,8 @@ MIT License
 
 ### Shiv Singh Baghel
 
-- Portfolio: your-portfolio.com
-- LinkedIn: linkedin.com/in/your-profile
-- GitHub: github.com/your-username
+- LinkedIn: https://www.linkedin.com/in/shivsinghbaghel/
+- GitHub: https://github.com/shivsingh78
 
 ---
 
