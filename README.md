@@ -3,7 +3,7 @@
 🚀 Full Stack Developer | MERN Stack Developer | AI Enthusiast
 
 - 🎓 B.Tech IT Student
-- 💻 Solved 2*0+ DSA Problems
+- 💻 Solved 280+ DSA Problems
 - 🌱 Learning System Design, Redis, AWS, Docker & AI Agents
 - 🔭 Building Scalable Full Stack AI Applications
 - ⚡ Interested in Backend Engineering & AI
